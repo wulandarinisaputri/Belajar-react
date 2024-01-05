@@ -97,3 +97,4 @@ __Catatan__: Selain untuk NPM, kita juga akan membutuhkan Node untuk membuat seb
 	* _State_ aplikasi
 	* Panggilan API
 	* _Styling_
+ * Selamat belajar React! Semoga repository ini membantu Anda dalam perjalanan belajar Anda.
